@@ -1,4 +1,4 @@
-# Calculator
-Calculator using HTML, CSS and Javascript.
+# Repository
+My first Repository
 <br>
 Lets Begin...
